@@ -35,9 +35,3 @@ form.addEventListener("submit", e => {
     }
   }, 10);
 });
-
-// window object (global object)
-
-// setTimeout(() => {
-//     alert('hello');
-// }, 3000);
